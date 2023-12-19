@@ -1,0 +1,1 @@
+primary_conninfo = 'host=pg-master port=5432 user=replica password=replicapassword'
